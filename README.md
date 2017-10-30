@@ -1,6 +1,8 @@
 # DataConverter
 This is used for automotive log data converter, support data formats: MDF, ASC, XLSX etc.
-Send me email zhyqestudy@163.com for more information.
+#Source Code
+This software is developed by .Net C#.
+Send me email zhyongquan@gmail.com for more information.
 # Data Format Exchange
 1.support dat=>xlsx
 2.support asc=>dat
