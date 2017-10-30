@@ -12,3 +12,5 @@ dat is standard MDF(Measurement Data Format) file, whilch is used in software ET
 xlsx is Microsoft Office Excel file.
 3.asc
 asc is CAN log file format, whilch is used in Vector CANalyzer.
+4.dbc
+dbc is CAN database file.
