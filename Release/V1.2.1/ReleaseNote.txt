@@ -1,0 +1,14 @@
+------------------------------------------------------------------
+Version: V1.2.1
+Date: 2017-8-30
+Change History:
+1.support dat=>xlsx
+2.support asc=>dat
+------------------------------------------------------------------
+Data Format:
+1.dat
+dat is standard MDF(Measurement Data Format) file, whilch is used in software ETAS INCA or MDA, or Vector CANape.
+2.xlsx
+xlsx is Microsoft Office Excel file.
+3.asc
+asc is CAN log file format, whilch is used in Vector CANalyzer.
